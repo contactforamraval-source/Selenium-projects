@@ -1,2 +1,2 @@
 # Selenium-projects
-This is my first Selenium project 
+This is my first Git Repository.
